@@ -22,7 +22,7 @@ Ensure you have the following installed on your machine:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/samarthbirajdar96/Dyanmic_Css-by-JS.git
+    git clone (https://github.com/samarthbirajdar96/Style-by-JS.git)
     ```
 
 2. Open the `index.html` file in your preferred web browser.
